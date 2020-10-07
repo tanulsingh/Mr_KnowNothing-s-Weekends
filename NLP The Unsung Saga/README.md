@@ -1,28 +1,4 @@
-# Mr_KnowNothing's Weekends
+# NLP : The Unsung Saga
 
-Hello Everyone , thanks for taking out the time to visit this page, I am Mr_KnowNothing and I bring to you a special series . Here I will share what I learn every week as I learn it , across three different tracks in a way that I have always ben i.e absolutely beginner friendly
+While I have seen a lot of Computer Vision Practitioners , A huge research community for CV , great innovative , cool projects , Hardly Have I ever seen such things in domain of Natural Language Processing . While this domain is at its boom now in 2020 , people don't see how much it has to offer . This track is specially for my love for NLP where I will explore different problem statements in the domain discussing from the very beginning and explaining everything
 
-The three tracks are :-
-
-* DS/Algo : Data Science Style
-* Kaggle Exclusive : Kernels and Blogs
-* NLP : The Unsung Saga
-
-# How can you Keep Track
-
-You can make use of the following Options : 
- 
-* Join me on [LinkedIn](https://www.linkedin.com/in/tanul-singh/)
-* Bookmark this Repo
-* Follow me on [Hackernoon](https://hackernoon.com/u/Mr_KnowNothing)
-
-# Pre-Requisites
-
-* Python
-* A curious mind
-
-# Schdeule
-
-|  Name | Track | Release Date | Release Week | Content-Type | 
-| ------------- | ------------- | --------- | ----------| ------- |
-| Tackling any Kaggle Competition : The Noob's Way | Kaggle Exclusive |  10th October |  5th Oct - 11th Oct | Kaggle Kernel |

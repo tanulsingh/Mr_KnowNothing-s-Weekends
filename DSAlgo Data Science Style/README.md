@@ -4,4 +4,10 @@ Data Science and Machine Learning is one of the fields where the diversity in pe
 
 One of the most important things in core computer science is Data Structures and Algorithms and is a must if you are aiming for ever working in a big company like Microsoft , Google , Apple ,etc . But unfortunately the topic can get very intimidating real quick , having faced such difficulties myself , I wondered what could be an easy way to make these concepts understand to people who are just getting started with programming that too in core python and AS a result I bring this track to you
 
-The key here is to learn only the things that are absolute must and in a specific order and in a way that is relatable to data science , so if you are interested you can follow along 
+<b> The key here is to learn only the things that are absolute must and in a specific order and in a way that is relatable to data science , so if you are interested you can follow along </b>
+
+# Content
+
+| Topic  | Published Date | Link
+| ------------- | ------------- | ------------- |
+| Array  | ----------  | ------------ |

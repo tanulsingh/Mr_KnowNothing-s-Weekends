@@ -25,4 +25,4 @@ You can make use of the following Options :
 
 |  Name | Track | Release Date | Release Week | Content-Type | 
 | ------------- | ------------- | --------- | ----------| ------- |
-| Tackling any Kaggle Competition : The Noob's Way | Kaggle Exclusive |  10th October |  5th Oct - 11th Oct | Kaggle Kernel |
+| Tackling any Kaggle Competition : The Noob's Way | Kaggle Exclusive |  24th October |  17th Oct - 25th Oct | Kaggle Kernel |

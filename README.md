@@ -34,4 +34,4 @@ You can make use of the following Options :
 # Feedback and Collaboration
 
 * If you have read any of the content related to this series and want to help me make it better in some way , please share your feedback by filling up this [form](https://forms.gle/pBtYeKjoFFeSo8Co8)
-* If you think you can help me in some way and want ot join me in this initiative please fill this [form]() and I will get back to you
+* If you think you can help me in some way and want to join me in this initiative please fill this [form](https://forms.gle/3DXXKAmqaADoD24x5) and I will get back to you

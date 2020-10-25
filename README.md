@@ -27,9 +27,9 @@ You can make use of the following Options :
 
 # Schdeule
 
-|  Name | Track | Release Date | Release Week | Content-Type | 
-| ------------- | ------------- | --------- | ----------| ------- |
-| Tackling any Kaggle Competition : The Noob's Way | Kaggle Exclusive |  24th October |  17th Oct - 25th Oct | Kaggle Kernel |
+|  Name | Track | Release Date | Release Week | Content-Type | Link |
+| ------------- | ------------- | --------- | ----------| ------- | --------- |
+| Tackling any Kaggle Competition : The Noob's Way | Kaggle Exclusive |  25th October |  17th Oct - 25th Oct | Kaggle Kernel | https://www.kaggle.com/tanulsingh077/tackling-any-kaggle-competition-the-noob-s-way |
 
 # Feedback and Collaboration
 

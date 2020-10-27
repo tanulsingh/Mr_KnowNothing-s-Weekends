@@ -8,6 +8,10 @@ The three tracks are :-
 * Kaggle Exclusive : Kernels and Blogs
 * NLP : The Unsung Saga
 
+# What can you expect ?
+
+Absolutely Beginner Friendly and Unique Content for anyone who is curious enough to learn across most sought verticals .
+
 # How can you Keep Track
 
 You can make use of the following Options : 
@@ -23,6 +27,11 @@ You can make use of the following Options :
 
 # Schdeule
 
-|  Name | Track | Release Date | Release Week | Content-Type | 
-| ------------- | ------------- | --------- | ----------| ------- |
-| Tackling any Kaggle Competition : The Noob's Way | Kaggle Exclusive |  10th October |  5th Oct - 11th Oct | Kaggle Kernel |
+|  Name | Track | Release Date | Release Week | Content-Type | Link |
+| ------------- | ------------- | --------- | ----------| ------- | --------- |
+| Tackling any Kaggle Competition : The Noob's Way | Kaggle Exclusive |  25th October |  17th Oct - 25th Oct | Kaggle Kernel | https://www.kaggle.com/tanulsingh077/tackling-any-kaggle-competition-the-noob-s-way |
+
+# Feedback and Collaboration
+
+* If you have read any of the content related to this series and want to help me make it better in some way , please share your feedback by filling up this [form](https://forms.gle/pBtYeKjoFFeSo8Co8)
+* If you think you can help me in some way and want to join me in this initiative please fill this [form](https://forms.gle/3DXXKAmqaADoD24x5) and I will get back to you

@@ -1,3 +1,5 @@
+Optimizing MLLoss by publishing one article at a time ;-)
+
 # About this Series
 
 Hi Everyone , I am Mr_KnowNothing you might know me from Kaggle or LinkedIn and if not this section will definitely help . I am a Mechanical Engineering graduate turned data scientist.

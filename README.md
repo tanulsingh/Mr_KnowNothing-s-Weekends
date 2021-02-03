@@ -35,7 +35,8 @@ You can make use of the following Options :
 
 |  Name of Article/Kernel | Topic | Link |
 | ------------- | ------------- | --------- |
-| Tackling any Kaggle Competition : The Noob's Way | Kaggle | Kaggle Kernel | https://www.kaggle.com/tanulsingh077/tackling-any-kaggle-competition-the-noob-s-way |
+| Tackling any Kaggle Competition : The Noob's Way | Kaggle | https://www.kaggle.com/tanulsingh077/tackling-any-kaggle-competition-the-noob-s-way |
+| The Magic of Going Top to Down | Learning | https://tanulsingh0077.medium.com/the-magic-of-going-top-to-down-c3fa263e0da9 |
 
 # Feedback
 

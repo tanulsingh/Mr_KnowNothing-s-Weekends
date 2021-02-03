@@ -24,7 +24,7 @@ You can make use of the following Options :
 * Join me on [LinkedIn](https://www.linkedin.com/in/tanul-singh/)
 * Bookmark this Repo
 * Follow me on [Kaggle](https://www.kaggle.com/tanulsingh077)
-* Follow me on [Hackernoon](https://hackernoon.com/u/Mr_KnowNothing)
+* Follow me on [Medium](https://tanulsingh0077.medium.com/)
 
 # Pre-Requisites
 
